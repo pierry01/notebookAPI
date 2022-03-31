@@ -6,7 +6,7 @@ ruby '2.6.5'
 gem 'rails', '~> 5.2.3'
 gem 'rails-i18n'
 gem 'sqlite3'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'rack-cors'
 gem 'active_model_serializers'
